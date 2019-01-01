@@ -1,0 +1,9 @@
+D:\VS2013_project\Projects\kbwaveHouseholdAccounts\kbwaveHouseholdAccounts\bin\x64\Debug\kbwaveHouseholdAccounts.exe.config
+D:\VS2013_project\Projects\kbwaveHouseholdAccounts\kbwaveHouseholdAccounts\bin\x64\Debug\kbwaveHouseholdAccounts.exe
+D:\VS2013_project\Projects\kbwaveHouseholdAccounts\kbwaveHouseholdAccounts\bin\x64\Debug\kbwaveHouseholdAccounts.pdb
+D:\VS2013_project\Projects\kbwaveHouseholdAccounts\kbwaveHouseholdAccounts\bin\x64\Debug\kbwaveHouseholdAccounts.xml
+D:\VS2013_project\Projects\kbwaveHouseholdAccounts\kbwaveHouseholdAccounts\obj\x64\Debug\kbwaveHouseholdAccounts.Resources.resources
+D:\VS2013_project\Projects\kbwaveHouseholdAccounts\kbwaveHouseholdAccounts\obj\x64\Debug\kbwaveHouseholdAccounts.vbproj.GenerateResource.Cache
+D:\VS2013_project\Projects\kbwaveHouseholdAccounts\kbwaveHouseholdAccounts\obj\x64\Debug\kbwaveHouseholdAccounts.exe
+D:\VS2013_project\Projects\kbwaveHouseholdAccounts\kbwaveHouseholdAccounts\obj\x64\Debug\kbwaveHouseholdAccounts.xml
+D:\VS2013_project\Projects\kbwaveHouseholdAccounts\kbwaveHouseholdAccounts\obj\x64\Debug\kbwaveHouseholdAccounts.pdb
