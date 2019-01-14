@@ -19,6 +19,28 @@ GridTest
 	<summary>
   ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
 </summary>
+</member><member name="M:GridTest.modMain.Main">
+	<summary>
+ エントリーポイント
+ </summary>
+	<remarks></remarks>
+</member><member name="M:GridTest.modMain.SetGridTitle(System.Windows.Forms.DataGridView@)">
+	<summary>
+ 指定したグリッドに列タイトルを設定
+ </summary>
+	<param name="grdControl"></param>
+	<remarks></remarks>
+</member><member name="M:GridTest.modMain.GetGridTitleList">
+	<summary>
+ グリッドの列のタイトルをリストで取得
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:GridTest.modMain">
+	<summary>
+ 本Projのメインモジュール
+ </summary>
+	<remarks></remarks>
 </member><member name="M:GridTest.windowMain.SetGrid">
 	<summary>
  グリッドをセット

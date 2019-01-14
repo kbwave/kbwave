@@ -34,6 +34,7 @@ Partial Class windowMain
 		Me.grdMain.Location = New System.Drawing.Point(0, 0)
 		Me.grdMain.Name = "grdMain"
 		Me.grdMain.ReadOnly = True
+		Me.grdMain.RowHeadersVisible = False
 		Me.grdMain.RowTemplate.Height = 21
 		Me.grdMain.Size = New System.Drawing.Size(411, 238)
 		Me.grdMain.TabIndex = 0
